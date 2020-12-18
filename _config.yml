@@ -2,3 +2,12 @@ theme: jekyll-theme-hacker
 title: Zeroska
 name: 
 description: Just a random blog about reverse engineering, binary exploitation and ...
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-remote-theme
